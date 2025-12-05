@@ -12,4 +12,4 @@ def hola():
     return "hola2"
 
 def adios():
-    return "adios"
+    return "adios2"
