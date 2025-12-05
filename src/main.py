@@ -7,3 +7,6 @@ def to_upper(text):
 
 def to_lower(text):
     return text.upper()
+
+def hola():
+    return "hola"
